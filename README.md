@@ -11,25 +11,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=%20&animation=twinkling&color=0:667eea,50:764ba2,100:f093fb" alt="divider" />
 
 <!-- 📱 Contact Cards with Hover Effects -->
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" />
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Work-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6C5CE7" />
-</a>
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -198,15 +179,10 @@ I combine **technical depth to modernize legacy systems**, **versatility across 
 </div>
 
 ---
-
-## 🌟 Footer
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=0,2,6,8,30&animation=twinkling" alt="Footer Wave" />
 
 ### 💫 *"The best way to predict the future is to create it."*  
 **Thanks for visiting! Let's build something amazing together.** 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 </div>
