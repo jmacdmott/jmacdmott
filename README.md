@@ -110,14 +110,6 @@ I combine **technical depth to modernize legacy systems**, **versatility across 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=jmacdmott&show_icons=true&hide_title=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=10" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jmacdmott&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="GitHub Streak" />
 
-### 🎯 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jmacdmott&theme=tokyonight&area=true&hide_border=true&radius=12&bg_color=0D1117&title_color=58A6FF&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=58A6FF" alt="Activity Graph" />
-
-### 🏆 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmacdmott&theme=tokyonight&background=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="Profile Summary" />
-
-</div>
-
 ---
 
 ## 💭 Philosophy & Motivation
