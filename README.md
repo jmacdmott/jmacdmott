@@ -4,9 +4,6 @@
 <!-- 🌟 Animated Header with Glassmorphism Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,8,30&height=300&section=header&text=Justin&fontSize=60&fontAlignY=40&desc=Senior%20C%23%20%7C%20.NET%20%7C%20Azure%20%7C%20Power%20Platform%20%7C%20React%20%7C%20AI%2FML%20Engineer&descSize=20&descAlignY=70&animation=twinkling&fontColor=ffffff" alt="Header" />
 
-<!-- 🎯 Dynamic Typing Animation with Modern Font -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=🚀+Delivering+Enterprise-Grade+Solutions;💡+.NET%20%7C%20Azure%20%7C%20AI%2FML%20%7C%20Power%20Platform;⚡+Resilient+%26+Scalable+Architectures;🎨+User-Focused+%7C+Performance-Driven" alt="Typing Animation" />
-
 <!-- 🌈 Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=%20&animation=twinkling&color=0:667eea,50:764ba2,100:f093fb" alt="divider" />
 
